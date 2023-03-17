@@ -1,1 +1,1 @@
-# JS_Study
+# JS_Corporation
