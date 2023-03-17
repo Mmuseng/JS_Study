@@ -13,7 +13,7 @@
 | [우도현](https://github.com/devops_04_DoHyeon) |     |     |
 | [이용국](https://github.com/LYQook) |     |     |
 | [송가현](https://github.com/gahyunSong) |     |     |
-| [오시현]() |     |     |
+| [오시연]() |     |     |
 | [유희진](https://github.com/peachApeach) |     |     |
 
 <br>
