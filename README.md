@@ -17,7 +17,6 @@
 | [이용국](https://github.com/LYQook) |     |     |
 | [송가현](https://github.com/gahyunSong) |     |     |
 | [오시연](https://github.com/seay0) |     |     |
-| [유희진](https://github.com/peachApeach) |     |     |
 
 <br>
 
