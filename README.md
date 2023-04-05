@@ -11,12 +11,12 @@
 
 |                   이름                   | 출석 | etc |
 | :--------------------------------------: |:--: | :-: |
-| [김민주](https://github.com/Mmuseng) |     |     |
-| [문한성](https://github.com/hansungmoon) |     |     |
-| [우도현](https://github.com/devops_04_DoHyeon) |     |     |
-| [이용국](https://github.com/LYQook) |     |     |
-| [송가현](https://github.com/gahyunSong) |     |     |
-| [오시연](https://github.com/seay0) |     |     |
+| [김민주](https://github.com/Mmuseng) |  5/5   |     |
+| [문한성](https://github.com/hansungmoon) |  5/5   |     |
+| [우도현](https://github.com/devops_04_DoHyeon) |  5/5   |     |
+| [이용국](https://github.com/LYQook) |  3/5   |     |
+| [송가현](https://github.com/gahyunSong) |   5/5  |     |
+| [오시연](https://github.com/seay0) |  5/5   |     |
 
 <br>
 
@@ -29,7 +29,7 @@
 |  2   |   23/03/24 20:00   |   04, 05   |    All    |    -    |
 |  3   |   23/03/29 21:00   |   06 ~ 09   |    용국 제외 5명    |    오시연    |
 |  4   |   23/03/31 20:00   |   10, 11   |    -    |    -    |
-|  5   |   23/04/05 21:00   |   12, 13   |        |        |
+|  5   |   23/04/05 21:00   |   12, 13   |    All    |    -    |
 
 <br>
 
